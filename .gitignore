@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+/tools/.git
+/tools/output
+/tools/tools.vcxproj.filters
+/tools/tools.vcxproj.user
+*.opendb
+/tools/.vs/tools/v16/Browse.VC.db
